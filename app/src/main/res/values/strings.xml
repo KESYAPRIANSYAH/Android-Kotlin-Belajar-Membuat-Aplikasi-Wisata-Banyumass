@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Info Wisata Banyumas</string>
+<string name="title_bar"> Kesy Apriansyah</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="description">Deskripsi</string>
+    <string name="scrollable_content_area_for_details">Scrollable content area for details</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="nama">nama</string>
+    <string name="todo">todo</string>
+    <string name="imageprofil">TODO</string>
+    <string name="textviewname">TextView</string>
+    <string name="textviewemail">TextView</string>
+    <string name="profil" />
+    <string name="kesy_apriansyah">KESY APRIANSYAH</string>
+    <string name="kesyapriansyah_gmail_com">kesyapriansyah@gmail.com</string>
+    <string name="kunjugi">Kunjugi</string>
+
+    <string-array name="data_name">
+        <item>Kebun Raya Baturaden</item>
+        <item>New Small World</item>
+        <item>Taman Balai Kemambang</item>
+        <item>Telaga Sunyi</item>
+        <item>Pancuran Pitu </item>
+        <item>Curug Cipendok</item>
+        <item>Menara Pandang Teratai Purwokerto</item>
+        <item>Museum Sasmitaloka Panglima Besar Jenderal Sudirman</item>
+        <item>Limpa Kuwus</item>
+        <item>Taman Rekreasi Andhang Pangrenan</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Kabun Raya Baturraden mengoleksi aneka tumbuhan, mulai dari mulai bunga anggrek hingga tanaman obat, paku, dan bambu.Pengunjung yang datang ke tempat ini akan disambut dengan rimbunnya pepohonan. Lokasinya ada di Jalan Pancurantujuh-Wanawisata Baturraden, Purwokerto, Dusun III Berubahan, Kemutug Lor, Baturraden, Banyumas, Jawa Tengah</item>
+        <item>Buat penggemar selfie dengan latar yang Instagramable, kamu bisa mampir ke New Small World. Di tempat ini pengunjung bisa melihat dan berfoto dengan miniatur ikon-ikon terkenal dari seluruh dunia.Harga tiket masuk per orangnya mulai dari Rp 20.000, sedangkan anak berusia di bawah tiga tahun bisa masuk secara gratis. Tempat wisata ini berlokasi di Jalan Raya Baturaden Barat Nomor 271 Desa Ketenger, Purwokerto, Jawa Tengah.  Jam bukanya mulai pukul 08.00 WIB sampai dengan 16.00 WIB setiap harinya.</item>
+        <item> Taman ini adalah salah satu alternatif destinasi wisata di kota Purwokerto. Tiket masuknya sangat murah. Pengunjung dapat menikmati beragam fasilitas yang disediakan mulai dari Gazebo, arena bermain, dan tentu saja suguhan utamanya adalah sejenis danau buatan yang cukup besar. Pengunjung diperbolehkan memberi makan ikan - ikan yang ada di danau buatan tersebut. Untuk pakan ikan sudah disediakan dan dapat dibeli di loket tiket masuk. suasananya cukup nyaman dan cukup teduh karena banyak pepohonan juga. Ada menara pandang yang cukup tinggi sehingga pengunjung juga dapat menikmati pemandangan dari ketinggian. Malam hari tampak lebih bagus karena lampu hias air mancur juga menyala. Cukup bagus sebagai salah satu alternatif wisata keluarga di kota Purwokerto.</item>
+        <item>Taman ini diresmikan pada 24 Februari 2014 oleh Bupati Banyumas saat itu, yaitu Achmad Husein, dikutip dari situs web Jatengprov.go.id. Ruang Terbuka Hijau (RTH) ini dibangun di lahan seluas 1,2 hektare dengan dikelilingi pohon, taman, dan jalur jogging.  Sementara itu, di bagian tengah atau dalamnya, terdapat kolam besar dan taman bermain anak yang terdiri dari ayunan, jungkat-jungkit, dan perosotan.  Taman Balai Kemambang berada di Jalan Karang Kobar Nomor 9, Glempang, Bancarkembar, Kecamatan Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah.
+        </item>
+        <item>Wisata ini memiliki sumber air panas alami dengan tujuh pancuran untuk mandi.</item>
+        <item>Curug Cipendok adalah air terjun dengan ketinggian 92 meter yang terletak di lereng Gunung Slamet. Curug Cipendok mempunyai daya tarik tersendiri, karena lingkungan masih betul-betul alami. Kesunyian juga masih sangat terasa, sebab belum banyak pelancong yang datang menikmati keindahan alamnya. Hawa di sekitarnya sejuk dan sepanjang jalan menuju ke sana terdapat area perkebunan. Di sekitar wilayahnya terdapat bumi perkemahan, Rearing Unit Manggala BBPTU Sapi Perah Baturraden dan sebuah telaga yang bernama Telaga Pucung.</item>
+        <item>Menara Pandang Teratai Purwokerto merupakan sebuah menara yang berada di Kedungwuluh, Purwokerto Barat, Kabupaten Banyumas. Menara pandang setinggi 117 meter yang dibangun sejak tahun 2021 ini merupakah sebuah proyek infrastruktur pariwisata baru di Kawasan Kota Baru Purwokerto yang berada di wilayah Jalan Bung Karno. Menara ini dibuka untuk tahap uji coba pada tanggal 27 April 2022 dalam tahap finalisasi fasad bangunan. Masuk lantai satu gratis. Naik lantai dua dan seterusnya harus bayar. Tiket weekday Rp 20.000, tiket weekend Rp 25.000</item>
+        <item>Museum Panglima Besar Jenderal Soedirman, merupakan salah satu museum yang ada di kabupaten Banyumas. Museum ini terletak 3 km arah barat pusat kota Purwokerto, atau lebih tepatnya berada di sebelah timur Sungai Logawa yang menjadi pintu masuk Kota Purwokerto dari arah barat. Museum Panglima Besar Jenderal Sudirman menjadi salah satu tempat yang tepat untuk wisata edukasi sejarah di Purwokerto. Bangunan museum memiliki dua lantai, lantai bawah berisi diorama, foto-foto perjuangan, benda-benda duplikat peninggalan Jenderal Soedirman, dan lain-lain. Sedangkan pada lantai atas bangunan wisata edukasi sejarah ini terdiri dari relief sejarah bangsa Indonesia selama perang kemerdekaan 1945, relief perjuangan Jenderal Soedirman dalam merebut Yogyakarta kembali sebagai Ibukota Indonesia pada saat itu, dan patung Panglima Besar Jenderal Soedirman duduk diatas kuda, patung ini terbuat dari bahan perunggu seberat 5,5 ton dan tinggi 4,5 meter.</item>
+        <item>Bagi yang ingin menikmati suasana matahari terbenam atau terbit, maka bisa menyewa cottage atau berkemah di lokasi yang telah disediakan. Fasilitasnya juga cukup lengkap dan aman karena pengelola akan memastikan setiap wahana bisa digunakan terutama jika terjadi hujan. Pengunjung disarankan untuk datang sebelum jam 09.00 WIB karena belum terlalu padat dan udara masih segar. Selain itu, pengunjung juga perlu memperhatikan pemberitahuan dari pengelola melalui akun Instagram @hutanpinuslimpakuwuss, karena tak jarang lokasi ini sangat penuh sehingga tidak lagi tersedia lahan parkir dan antrean yang sangat panjang. Walaupun jalan menuju lokasinya sudah beraspal, namun pengendara juga perlu berhati-hati dengan tanjakan dan tikungan tajam. Terlebih ketika musim liburan, jalan cukup padat dari dua arah sehingga harus berhati-hati ketika berpapasan dengan kendaraan dari arah berlawanan.</item>
+        <item>Taman Kota Andhang Pangrenan Purwokerto merupakan tempat rekreasi alternatif selain alun-alun Purwokerto. Terletak di Kelurahan Karangklesem Purwokerto Selatan. Diresmikan pada tanggal 13 April 2011 oleh Bupati Banyumas pada saat itu Drs. Mardjoko. Dulunya Taman Kota Andhang Pangrenan merupakan terminal bus Purwokerto, dikarenakan ada perubahan pemerintahan pada waktu itu terminal bus Purwokerto dipindahkan ke Teluk. Dan tempat bekas terminal tersebut dibuat sebuah taman kota yang kita kenal dengan Taman Kota Andhang Pangrenan. Andhang Pangrenan Lebih dikenal dengan sebutan akronim yaitu TRAP (Taman Rekreasi Andhang Pangrenan) Nama Andhang Pangrenan sendiri memiliki sebuah arti, kata Andhang berarti tempat dan Pangrenan memiliki arti hati yang riang atau senang. Jadi Andhang Pangrenan berarti tempat untuk bersenang-senang. Anda boleh bersenang-senang sepuasnya di Andhang Pangrenan, tetapi ada yang perlu diingat Anda dilarang membawa makanan/minuman, membawa minuman keras, membawa hewan peliharaan, membawa benda tajam, membawa sepeda/otopet/sepatu roda, dan dilarang membawa bola/bermain bola. Peraturan tersebut tentunya dibuat demi untuk menjaga keamanan dan kenyamanan pada saat Anda berekreasi.[1]</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://asset.kompas.com/crops/P7kcRV_KRNZ1I_lfaOYDBsqxd-M=/60x0:798x492/750x500/data/photo/2022/01/06/61d69557c2e41.png</item>
+        <item>https://asset.kompas.com/crops/o5PppBCQkX-9zeyrO6Feckl-52w=/0x111:1076x829/750x500/data/photo/2022/01/06/61d6a4c736fbf.jpg</item>
+        <item>https://asset.kompas.com/crops/Uk2IQkKauoQggHhCdTgKE3xlB2M=/0x24:357x261/750x500/data/photo/2022/01/06/61d694b08f3b5.png</item>
+        <item>https://asset.kompas.com/crops/zs2vDBVG5kiuJjjhWVFigQTT85o=/0x0:639x426/750x500/data/photo/2022/01/06/61d693d6b0c6f.jpeg</item>
+        <item>https://asset.kompas.com/crops/Yv1vgo7opqoAcHVQ3WDMrPw82gI=/0x0:750x500/750x500/data/photo/2022/01/12/61de8ad09e881.jpeg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Curug_Cipendok_Waterfall.jpg/220px-Curug_Cipendok_Waterfall.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOQQRP0-eH_qoM2H7U51SpseZy-ZtnLHdHta8tZ=s1360-w1360-h1020</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sasm_loka_DSC_0734.jpg/220px-Sasm_loka_DSC_0734.jpg</item>
+        <item>https://asset.kompas.com/crops/1q5jX02C4O2vYHzFNWbv3e_TGPI=/0x33:1080x753/750x500/data/photo/2022/05/16/62822ceb771c8.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Andhang_pangrenan.jpg/220px-Andhang_pangrenan.jpg</item>
+    </string-array>
+
+
+</resources>
